@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" path="prova.svg" normalization="web-static" excluded="true"/>
+      <bx:file format="svg" normalization="web-static" path="rifugi_climatici_icona.svg"/>
+    </bx:export>
+  </defs>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(235, 255, 247);" transform="matrix(1.06564, 0, 0, 1.034481, -87.168481, -91.171838)" cx="316.4" cy="329.8" r="136.8"/>
+  <g transform="matrix(11.988489, 0, 0, 11.988489, 106.138124, 107.4209)">
+    <path d="M 12 0.885 C 5.87 0.885 0.901 5.814 0.901 11.893 C 0.901 17.973 5.87 22.902 12 22.902 C 18.13 22.902 23.099 17.973 23.099 11.893 C 23.099 5.814 18.13 0.885 12 0.885 Z M -1.058 11.893 C -1.058 4.741 4.789 -1.058 12 -1.058 C 19.211 -1.058 25.058 4.741 25.058 11.893 C 25.058 19.046 19.211 24.844 12 24.844 C 4.789 24.844 -1.058 19.046 -1.058 11.893 Z" style="fill: rgb(56, 148, 118);"/>
+  </g>
+  <path d="M 237.532 150.256 H 262.469 V 199.13 H 333.121 V 229.055 H 262.469 V 349.744 H 237.532 V 229.055 H 166.88 V 199.13 H 237.532 Z" bx:shape="cross 166.88 150.256 166.241 199.488 29.925 24.937 0.32 1@7a218ca2" style="stroke: rgb(0, 0, 0); paint-order: fill; fill-rule: nonzero; fill-opacity: 1; stroke-opacity: 0.9; fill: rgb(56, 148, 118);"/>
+</svg>
